@@ -40,4 +40,4 @@ spec:
   selector:
     app: twitter-feed
     type: ClusterIP
-----
+---
