@@ -39,5 +39,5 @@ spec:
     targetPort: 8080
   selector:
     app: twitter-feed
-  type: ClusterIP
+  type: LoadBalancer
 ---
